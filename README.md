@@ -1,6 +1,9 @@
 # Superstore Sales Analysis Dashboard
 
 ## Project Overview
+## Dashboard Preview
+
+![Dashboard](1st%20project%20dashboard.png)
 
 This project analyzes a retail superstore sales dataset containing 9,800 transactions.
 
